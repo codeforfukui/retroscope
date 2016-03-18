@@ -2,13 +2,17 @@
 Sabae version of retroscope
 retroscope: Leaflet multiple tile layer with spotlight effect
 
-## Demo
-
-http://frogcat.github.io/retroscope/
-
-## original
+## Original
 
 https://github.com/frogcat/retroscope
+
+## Demo
+
+http://fukuno.jig.jp/app/retroscope-sabae/
+
+## Blog
+
+http://fukuno.jig.jp/1333
 
 ## Resources
 
