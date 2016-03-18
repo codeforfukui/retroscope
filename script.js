@@ -62,10 +62,10 @@ $.getJSON("layers.json").then(function(json) {
   });
 
   var map = L.map("map", {
-    maxZoom: 20,
+    maxZoom: 17,
     minZoom: 2,
-    zoom: 15,
-    center: [35.6707, 139.7852]
+    zoom: 16,
+    center: [ 35.9504205,136.1804362,17 ]
   });
   map.zoomControl.setPosition("bottomright");
   L.hash(map);

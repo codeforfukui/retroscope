@@ -1,17 +1,14 @@
-# retroscope
-Leaflet multiple tile layer with spotlight effect
+# retroscope-sabae
+Sabae version of retroscope
+retroscope: Leaflet multiple tile layer with spotlight effect
 
 ## Demo
 
 http://frogcat.github.io/retroscope/
 
+## original
 
-## For developers
-
-このレポジトリでの試行成果をとりまとめて Leaflet Plugin として公開しました。
-Retroscope を別の地図タイルで試してみたい方、Fork して拡張してみたいと思ってくださる方は、ぜひプラグインバージョンのご利用をご検討ください。
-
-http://frogcat.github.io/leaflet-tilelayer-mask/
+https://github.com/frogcat/retroscope
 
 ## Resources
 
